@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='AVSpeechSynthesizer'/>
+        <page name='AVplayer'/>
+        <page name='AVPlayerViewController'/>
+        <page name='SFSafariViewController'/>
+        <page name='UI element'/>
+        <page name='print time'/>
+        <page name='DateFormatter'/>
+        <page name='dateComponents'/>
+    </pages>
+</playground>
